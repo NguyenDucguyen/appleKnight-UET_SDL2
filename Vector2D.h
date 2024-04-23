@@ -1,8 +1,7 @@
 #ifndef VECTOR2D_H_
 #define VECTOR2D_H_
 #include "CommonFunc.h"
-// struct tọa độ 1 điểm
-#include "CommonFunc.h"
+
 
 class Vector2D
 {

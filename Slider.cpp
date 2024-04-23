@@ -7,7 +7,7 @@ Slider::Slider(SDL_Renderer* renderer, Vector2D index) {
     bg->LoadFromFile("./Images/UI/Slider.png");
     mPosition = index;
     minValue = 0;
-    maxValue = 17; // vì có 17 frame ảnh
+    maxValue = 18; // vì có 18 frame ảnh
     value = 0;
     dau = 0;
 }
@@ -25,7 +25,7 @@ void Slider::Update(float deltaTime) {
     Show();
 }
 
-void Slider::Show() { // hiển thị ảnh vì ảnh w = 16, h = độ dài ảnh/17 frame
+void Slider::Show() { // hiển thị ảnh vì ảnh w = 16, h = độ dài ảnh/18 frame
     SDL_Rect t = { 0, 16 * static_cast<int>(value), 64, bg->mHeight / 17 };
     SDL_Rect t2 = { static_cast<int>(mPosition.x), static_cast<int>(mPosition.y), 500, 50 }; // vị trí hiển thị
     bg->Render(mPosition, SDL_FLIP_NONE, 0, &t, &t2);

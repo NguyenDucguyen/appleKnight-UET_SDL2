@@ -28,7 +28,7 @@ public:
 			t->texture->LoadFromFile(part + "Salt" + duoi);
 			t->texture->mHeight /= 0.75f;
 			t->texture->mWidth /= 0.75f;
-			//cout << t->texture->mHeight << " " << t->texture->mWidth;
+			cout << t->texture->mHeight << " " << t->texture->mWidth;
 			t->texture->mPosition = Vector2D(SCREEN_WIDTH / 2 - t->texture->mWidth / 2, SCREEN_HEIGHT - t->texture->mHeight);
 			BG.push_back(t);
 		}
@@ -37,7 +37,7 @@ public:
 			t->texture->LoadFromFile(part + "BG3" + duoi);
 			t->texture->mHeight /= 0.75f;
 			t->texture->mWidth /= 0.5f;
-			//cout << t->texture->mHeight << " " << t->texture->mWidth;
+			cout << t->texture->mHeight << " " << t->texture->mWidth;
 			t->texture->mPosition = Vector2D(SCREEN_WIDTH / 2 - t->texture->mWidth / 2, SCREEN_HEIGHT - t->texture->mHeight);
 			BG.push_back(t);
 
