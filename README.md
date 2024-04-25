@@ -147,8 +147,11 @@ và khi tiêu diệt được THE KING , ta sẽ quay trở lại màn hình men
 
 
 **các file khác : ** 
+
 src : lưu các include, lib của SDL;
+
 images : lưu ảnh ;
+
 sounds : lưu âm thanh background ;
 
 
