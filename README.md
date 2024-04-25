@@ -62,18 +62,27 @@ khi tích đầy nội lực , sức mạnh của THE THIEF được giải phó
 **d) các thành phần khác**
 
 để vào game : 
+
+
+
 ![txtPlay](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/bedae446-442f-4e0d-a9e9-3b094fdf692b)
 
 và để thoát game :
+
+
 ![txtQuit](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/944b1226-fffa-44b3-921b-1fb070acd231)
 
 
 tượng thần chèn vào menu : 
+
+
+
 ![Salt](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/653699d4-8488-4764-ab0d-fe3c7747d50d)
 
 
 
 background : được cấu thành từ nhiều ảnh 
+
 
 ![BG1](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/ba5215a5-73f5-4f21-bbc5-e562e56bc897)
 ![BG2](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/f03fc57b-b207-4f10-b0be-e0e7a4bbacb4)
