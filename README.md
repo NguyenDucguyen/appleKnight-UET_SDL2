@@ -36,6 +36,9 @@ là tên độc tài reo rắc nỗi sợ cho người dân , là đối tựợ
 
 
 là niềm hi vọng , cứu rỗi mọi người khỏi ách đô hộ của tên độc tài THE KING 
+
+
+
 *được lấy cảm hứng từ nhân vật chính trong game DEAD CELL :
 
 
