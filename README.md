@@ -29,11 +29,16 @@ và sau đó người chơi sẽ đươc vào game
 là tên độc tài reo rắc nỗi sợ cho người dân , là đối tựợng cần thủ tiêu của nhân vật chính 
 
 **b) nhân vật THE THIEF :**
+
+
+
 ![Idle](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/82ecea93-0733-44b2-8bef-345707dc8d9c)
 
 
 là niềm hi vọng , cứu rỗi mọi người khỏi ách đô hộ của tên độc tài THE KING 
 *được lấy cảm hứng từ nhân vật chính trong game DEAD CELL :
+
+
 
 ![th](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/dbb8827c-e954-47c7-9ef0-c456eff1e11a)
 
