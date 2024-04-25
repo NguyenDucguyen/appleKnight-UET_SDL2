@@ -44,16 +44,20 @@ khi tích đầy nội lực , sức mạnh của THE THIEF được giải phó
 
 **d) các thành phần khác**
 
-để vào game :![txtPlay](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/bedae446-442f-4e0d-a9e9-3b094fdf692b)
+để vào game : 
+![txtPlay](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/bedae446-442f-4e0d-a9e9-3b094fdf692b)
 
-và để thoát game : ![txtQuit](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/944b1226-fffa-44b3-921b-1fb070acd231)
+và để thoát game :
+![txtQuit](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/944b1226-fffa-44b3-921b-1fb070acd231)
 
 
-tượng thần chèn vào menu : ![Salt](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/653699d4-8488-4764-ab0d-fe3c7747d50d)
+tượng thần chèn vào menu : 
+![Salt](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/653699d4-8488-4764-ab0d-fe3c7747d50d)
 
 
 
 background : được cấu thành từ nhiều ảnh 
+
 ![BG1](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/ba5215a5-73f5-4f21-bbc5-e562e56bc897)
 ![BG2](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/f03fc57b-b207-4f10-b0be-e0e7a4bbacb4)
 ![BG3](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/25a197b0-418d-4c4c-84eb-225a270150cc)
@@ -62,15 +66,25 @@ background : được cấu thành từ nhiều ảnh
 # 3.CÁCH ĐỂ CHƠI :
 
 _nhân vật THE THIEF liên tục đuổi  theo nhân vật THE KING để theo dõi và ám sát 
+
 ![Run](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/cc286354-d889-4980-92dd-af2cb46be078)
+
+
+
 
 và nhân vật THE KING có thể quay lại nhìn để kiểm tra xem THE THIEF có động tĩnh 
 và khi nhân vật THE THIEF tích đủ nội năng để tiêu diệt nhân vật THE KING:
+
 ![slider](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/6637d74d-8a91-4bb5-9885-49cadf5efce9)
 ![Attack](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/d8675652-62d8-4272-b49e-e4655a411fdc)
 ![Death](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/562604f7-839e-4892-95aa-d243a71184aa)
 
+
+
+
+
 hoặc khi chưa tích đủ nội năng mà bị phát hiện , THE THIEF sẽ bị THE KING tiêu diệt : 
+
 ![Attack](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/af953e52-a158-421b-acd9-87a04011889d)
 ![Death](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/bb6222ab-de2e-493a-9264-345b0fca8132)
 và khi tiêu diệt được THE KING , ta sẽ quay trở lại màn hình menu để chơi lại 
