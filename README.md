@@ -6,7 +6,10 @@
 
 the king and the thief là game thuộc thể loại thử thách , bạn sẽ phải cố gắng tiêu diệt nhà vua độc tài bằng cách sử dụng chiếc kiếm tích đủ nội năng để ám sát
 Đây là game lấy nguồn cảm hứng từ 2 tựa game :
+
 _Game ÁM SÁT NHÀ VUA trên gamevui về lối chơi: [https://gamevivu.net/am-sat-nha-vua-2/]
+
+
 _Game Dead cell về thiết kế nhân vật cùng background 
 
 
