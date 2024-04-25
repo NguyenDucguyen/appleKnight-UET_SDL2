@@ -37,6 +37,12 @@ là niềm hi vọng , cứu rỗi mọi người khỏi ách đô hộ của t�
 
 
 **c) thanh nội lực**
+
+
+
+
+
+
 ![slider](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/13a0269b-b6c5-4374-8e7b-6189c1570677)
 
 khi tích đầy nội lực , sức mạnh của THE THIEF được giải phóng , khi đó có thể tiêu diệt THE KING 
