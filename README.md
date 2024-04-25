@@ -96,6 +96,8 @@ _nhân vật THE THIEF liên tục đuổi  theo nhân vật THE KING để theo
 ![Run](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/cc286354-d889-4980-92dd-af2cb46be078)
 
 
+![Run](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/4d648a94-5e66-4d75-a6f5-a16fe34fc57f)
+
 
 
 và nhân vật THE KING có thể quay lại nhìn để kiểm tra xem THE THIEF có động tĩnh 
@@ -118,7 +120,14 @@ và khi nhân vật THE THIEF tích đủ nội năng để tiêu diệt nhân v
 hoặc khi chưa tích đủ nội năng mà bị phát hiện , THE THIEF sẽ bị THE KING tiêu diệt : 
 
 ![Attack](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/af953e52-a158-421b-acd9-87a04011889d)
+
+
+
 ![Death](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/bb6222ab-de2e-493a-9264-345b0fca8132)
+
+
+
+
 và khi tiêu diệt được THE KING , ta sẽ quay trở lại màn hình menu để chơi lại 
 
 # 
