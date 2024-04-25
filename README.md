@@ -143,6 +143,9 @@ và khi tiêu diệt được THE KING , ta sẽ quay trở lại màn hình men
 * KING : file code tạo lên nhân vật THE KING 
 * PLAYER : file code tạo lên nhân vật THE THIEF
 * main : file chính khởi tạo SDL,đóng SDL, âm thanh , hàm play , hàm menu,..
+
+
+
 **các file khác : ** 
 src : lưu các include, lib của SDL;
 images : lưu ảnh ;
