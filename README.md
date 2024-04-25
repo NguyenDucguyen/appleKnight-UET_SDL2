@@ -82,6 +82,12 @@ và nhân vật THE KING có thể quay lại nhìn để kiểm tra xem THE THI
 và khi nhân vật THE THIEF tích đủ nội năng để tiêu diệt nhân vật THE KING:
 
 ![slider](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/6637d74d-8a91-4bb5-9885-49cadf5efce9)
+
+
+
+
+
+
 ![Attack](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/d8675652-62d8-4272-b49e-e4655a411fdc)
 ![Death](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/562604f7-839e-4892-95aa-d243a71184aa)
 
