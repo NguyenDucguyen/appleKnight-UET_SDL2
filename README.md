@@ -234,9 +234,7 @@ king->Death(); : King chết
 
 
 
- LINK SDL : https://lazyfoo.net/  
-
-           https://www.libsdl.org/
+ LINK SDL : https://lazyfoo.net/      https://www.libsdl.org/
 
            mã nguồn tự thiết kế với sự giúp sức một phần nhỏ của AI
            
