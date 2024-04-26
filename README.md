@@ -236,7 +236,9 @@ king->Death(); : King chết
 
            https://www.libsdl.org/
 
-Nguồn ảnh file : nhân vật cùng ảnh nền  tự thiết kế dựa theo game deadcell, nhân vật ninja, 
+           mã nguồn tự thiết kế với sự giúp sức một phần nhỏ của AI
+           
+Nguồn ảnh file : nhân vật cùng ảnh nền  tự thiết kế dựa theo game deadcell, nhân vật ninja (sử dụng phần mềm aseprite để vẽ)
 
 Âm thanh : nguồn từ  bạn 
 
