@@ -242,3 +242,4 @@ Nguồn ảnh file : nhân vật cùng ảnh nền  tự thiết kế dựa theo
 
 Âm thanh : nguồn từ  bạn 
 
+XIN CẢM ƠN CHÂN THÀNH MỌI NGƯỜI !
