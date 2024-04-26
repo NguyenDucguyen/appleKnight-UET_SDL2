@@ -134,33 +134,47 @@ và khi tiêu diệt được THE KING , ta sẽ quay trở lại màn hình men
 # giải thích thuật toán game :
 
 THE KING có tất 4 state trạng thái được đánh số   bao gồm (0)idle(6 frame) , (1)run (8 frame), (2)attack(6 frame) , (3)death(11 frame) ; sử dụng SDL_Rendererflip để lật lại người xem THE THIEF có động tĩnh gì hay không 
+
 THE THIEF cũng có 4 state trạng thái được đánh số  giống THE KING 
+
 **Cập nhật trạng thái của người chơi khi vua không tấn công và người chơi không chết và frame của người chơi không phải frame cuối cùng của animation:**
 
 `if (king->state != 2 && player->state != 3 && player->frame != 6)`
+
 Nếu nhân vật vua không tấn công (king->state != 2).
+
 Và người chơi không chết (player->state != 3).
+
 Và frame của người chơi không phải frame cuối cùng của animation (player->frame != 6).
+
 **Kiểm tra khi người chơi tấn công và vua quay lại:**
 ****
+
 `if (player->state == 2 && player->frame >= 1 && king->state == 0)`
+
 Nếu người chơi đang tấn công (player->state == 2).
+
 Và frame của người chơi đang từ frame thứ hai trở đi (player->frame >= 1).
 
 Và vua đang ở trạng thái không tấn công (king->state == 0)
 
 player->attack() : người chơi tấn công
+
 king->death() : vua chết 
+
 slider-> value : cập nhập lại nộ 
 
 **Kiểm tra điều kiện kết thúc trận đấu:**
 
 `if ((king->state == 1 && king->frame == 11) || (king->state == 3 && king->frame == 10))`
+
 Nếu vua đã hoàn thành hành động tấn công hoặc vua đã chết.
+
 Kiểm tra điều kiện để người chơi tấn công khi thanh trượt đầy:
 
 `if (king->state != 2)`
 Nếu vua không trong trạng thái tấn công (king->state != 2).
+
 Cập nhật trạng thái của thanh trượt:
 
 `slider->Update(deltatime);`
@@ -172,12 +186,17 @@ Nếu giá trị của thanh trượt đạt đến giá trị tối đa, thực
 ```
 if (slider->value == slider->maxValue) {
     player->Attack();
+
     if (player->frame == 3) king->Death();
+
 }
+
 ```
  
 Nếu giá trị của thanh trượt đạt đến giá trị tối đa:
+
 player->Attack();: Người chơi tấn công.
+
 king->Death(); : King chết 
 
 # 
