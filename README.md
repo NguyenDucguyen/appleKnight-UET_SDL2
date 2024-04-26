@@ -2,6 +2,13 @@
 
 
 
+LINK VIDEO : https://drive.google.com/drive/my-drive?q=type:video%20parent:0ANWC0p6pWb3YUk9PVA
+
+
+
+
+
+
 # GIỚI THIỆU GAME 
 
 the king and the thief là game thuộc thể loại thử thách , bạn sẽ phải cố gắng tiêu diệt nhà vua độc tài bằng cách sử dụng chiếc kiếm tích đủ nội năng để ám sát
@@ -173,6 +180,7 @@ Nếu vua đã hoàn thành hành động tấn công hoặc vua đã chết.
 Kiểm tra điều kiện để người chơi tấn công khi thanh trượt đầy:
 
 `if (king->state != 2)`
+
 Nếu vua không trong trạng thái tấn công (king->state != 2).
 
 Cập nhật trạng thái của thanh trượt:
@@ -222,5 +230,13 @@ king->Death(); : King chết
 * sounds : lưu âm thanh background ;
 * command.txt : makefile để chạy vscode ;
 
- 
+
+
+ LINK SDL : https://lazyfoo.net/  
+
+           https://www.libsdl.org/
+
+Nguồn ảnh file : nhân vật cùng ảnh nền  tự thiết kế dựa theo game deadcell, nhân vật ninja, 
+
+Âm thanh : nguồn từ  bạn 
 
