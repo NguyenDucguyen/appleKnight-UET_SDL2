@@ -98,6 +98,8 @@ background : được cấu thành từ nhiều ảnh
 
 # 3.CÁCH ĐỂ CHƠI :
 
+Rất đơn giản : ta chỉ cần nhấn nút ENTER để nhân vật THE THIEF di chuyển , mỗi lần bấm thanh slider được cập nhật, thả tay ra sẽ làm giảm nội năng của THE THIEFTHIEF
+
 _nhân vật THE THIEF liên tục đuổi  theo nhân vật THE KING để theo dõi và ám sát 
 
 ![Run](https://github.com/NguyenDucguyen/appleKnight-UET_SDL2/assets/160694563/cc286354-d889-4980-92dd-af2cb46be078)
