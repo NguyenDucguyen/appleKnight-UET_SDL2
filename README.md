@@ -135,7 +135,7 @@ và khi tiêu diệt được THE KING , ta sẽ quay trở lại màn hình men
 
 THE KING có tất 4 state trạng thái được đánh số   bao gồm (0)idle(6 frame) , (1)run (8 frame), (2)attack(6 frame) , (3)death(11 frame) ; sử dụng SDL_Rendererflip để lật lại người xem THE THIEF có động tĩnh gì hay không 
 
-THE THIEF cũng có 4 state trạng thái được đánh số  giống THE KING 
+THE THIEF cũng có 4 state trạng thái được đánh số  giống THE KING :idle(4 frame) , run (8 frame), attack(4 frame) , death(7 frame) 
 
 **Cập nhật trạng thái của người chơi khi vua không tấn công và người chơi không chết và frame của người chơi không phải frame cuối cùng của animation:**
 
